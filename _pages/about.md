@@ -2,25 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: How am I doing?  OUTSTANDING!
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Dallas/Fort Worth, Texas</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Troy McSimov is the Technology VP at US Energy Development Corporation and previously the President at Technology Spa providing advisory services in risk management, IT operational transformation, and cloud strategy for our customers globally. He has over 20 years of technology experience serving in a wide variety of positions and industries. Troy also was Director of Information Technology at Heritage Highland Finance & Management Services, LP, and Senior Vice President at Lehman Brothers where he served as a member of the Systems Committee, a member of the Business Continuity Committee, and managed the IT Governance and Technology Operations for the Lehman Brothers Private Fund Advisers business in Dallas, TX for over five years.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Troy has managed systems related to fund accounting, reporting, compliance, CRM, ERP, web hosting, ecommerce, business intelligence, and related infrastructure systems. As a Sergeant in the United States Marine Corps, I was responsible for managing communications equipment, internal controls, and processes related to the dissemination of classified material.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently an alternate on the City of Murphy Planning and Zoning Board and a member of Information Technology Disaster Resource Center. Troy has a B.S in Business Administration from University of Phoenix.
+
+Specialties: Technology certifications:
+ITIL v3 - IT Service Management
+CISSP - Certified Information Systems Security Professional
+CRISC - Certified Risk Information Systems Controls
+CISA - Certified Information Systems Auditor
+MCSE - Microsoft Certified Systems Engineer
+Power Platform - Microsoft Certified
+SMC - SCRUM Master Certified
+AWS CSA - AWS Certified Solutions Architect
+AWS Specialty - AWS Certified Security
