@@ -6,7 +6,7 @@ subtitle: How am I doing?  OUTSTANDING!
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof-pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dallas/Fort Worth, Texas</p>
